@@ -1,7 +1,13 @@
 body {
     text-align: center;
+    background-color: blue;
+    color: white;
+
 }
 label {
     display: block;
     padding-bottom: 1rem;
+}
+#submit-btn{
+    background-color: aquamarine;
 }
